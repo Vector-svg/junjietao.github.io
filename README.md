@@ -1,6 +1,14 @@
-# junjietao.github.io
-## Jun-Jie Tao
+# About Me
 
-My name is Jun-Jie Tao. My research interest involves machine learning and large language model.
+**Name:** Jun-Jie Tao  
 
-My email is 231870218@smail.nju.edu.cn .
+**Research Interests:**  
+- Deep Learning  
+- Large Language Models  
+- Computer Vision  
+- Image Generation  
+
+**Contact:** 
+231870218@smail.nju.edu.cn
+junjietao@smail.nju.edu.cn
+

@@ -9,8 +9,8 @@
 - Image Generation  
 
 **Contact:** 
-231870218@smail.nju.edu.cn
 
+231870218@smail.nju.edu.cn
 
 junjietao@smail.nju.edu.cn
 
